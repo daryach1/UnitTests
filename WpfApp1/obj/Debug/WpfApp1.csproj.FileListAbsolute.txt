@@ -1,0 +1,15 @@
+C:\Users\alinaviot\source\repos\ClassLibraryPassword\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\alinaviot\source\repos\ClassLibraryPassword\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\alinaviot\source\repos\ClassLibraryPassword\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\alinaviot\source\repos\ClassLibraryPassword\WpfApp1\obj\Debug\WpfApp1.csproj.AssemblyReference.cache
+C:\Users\alinaviot\source\repos\ClassLibraryPassword\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\alinaviot\source\repos\ClassLibraryPassword\WpfApp1\obj\Debug\App.g.cs
+C:\Users\alinaviot\source\repos\ClassLibraryPassword\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\alinaviot\source\repos\ClassLibraryPassword\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\alinaviot\source\repos\ClassLibraryPassword\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\alinaviot\source\repos\ClassLibraryPassword\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\alinaviot\source\repos\ClassLibraryPassword\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\alinaviot\source\repos\ClassLibraryPassword\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\Users\alinaviot\source\repos\ClassLibraryPassword\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\alinaviot\source\repos\ClassLibraryPassword\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\alinaviot\source\repos\ClassLibraryPassword\WpfApp1\obj\Debug\WpfApp1.pdb
